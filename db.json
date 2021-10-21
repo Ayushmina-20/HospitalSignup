@@ -1,8 +1,8 @@
 {
 "Hospital":[
-{ "id":1, "Hospital Name":"AIMS", "Hospital Type":"Govt", "Contact Number":98765432321, "Address":"Sijua, Patrapada, Bhubaneswar -751019", "Total Seats":23, "Total ICUS":23,"Departments":"Cardiology"},
-{ "id":2, "Hospital Name":"AIMS", "Hospital Type":"Govt", "Contact Number":98765432321, "Address":"Sijua, Patrapada, Bhubaneswar -751019", "Total Seats":23, "Total ICUS":23,"Departments":"Cardiology"},
-{"id":3, "Hospital Name":"AIMS", "Hospital Type":"Govt", "Contact Number":98765432321, "Address":"Sijua, Patrapada, Bhubaneswar -751019", "Total Seats":23, "Total ICUS":23,"Departments":"Cardiology"},
-{"id":4, "Hospital Name":"AIMS", "Hospital Type":"Govt", "Contact Number":98765432321, "Address":"Sijua, Patrapada, Bhubaneswar -751019", "Total Seats":23, "Total ICUS":23,"Departments":"Cardiology"}
+{ "id":1, "Hospital Name":"AIMS", "Hospital Type":"Govt", "Contact Number":98765432321, "Address":"Sijua, Patrapada, Bhubaneswar -751019", "Total Seats":23, "Total ICUS":23, "Departments":"Cardiology", "Facilities":"AC Cabin"},
+{ "id":2, "Hospital Name":"AIMS", "Hospital Type":"Govt", "Contact Number":98765432321, "Address":"Sijua, Patrapada, Bhubaneswar -751019", "Total Seats":23, "Total ICUS":23,"Departments":"Cardiology", "Facilities":"AC Cabin"},
+{"id":3, "Hospital Name":"AIMS", "Hospital Type":"Govt", "Contact Number":98765432321, "Address":"Sijua, Patrapada, Bhubaneswar -751019", "Total Seats":23, "Total ICUS":23,"Departments":"Cardiology", "Facilities":"AC Cabin"},
+{"id":4, "Hospital Name":"AIMS", "Hospital Type":"Govt", "Contact Number":98765432321, "Address":"Sijua, Patrapada, Bhubaneswar -751019", "Total Seats":23, "Total ICUS":23,"Departments":"Cardiology", "Facilities":"AC Cabin"}
 ]
 }
