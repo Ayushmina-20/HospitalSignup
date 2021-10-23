@@ -3,9 +3,9 @@
  "hospital_name":"SUM Hospital","logo":"https://project-rah.herokuapp.com/api/images/1633614982613SUM-1.jpg",
  "images":["https://project-rah.herokuapp.com/api/images/1633614983493SUM-3.jpg",
 "https://project-rah.herokuapp.com/api/images/1633614983500SUM-4.jpg","https://project-rah.herokuapp.com/api/images/1633614983487SUM-2.jpg",
-           "https://project-rah.herokuapp.com/api/images/1633614983479SUM-1.jpg"],"hospital_type":"private","contact_number":1234567890,"address":"K8 Lane 1,
+           "https://project-rah.herokuapp.com/api/images/1633614983479SUM-1.jpg"],"hospital_type":"private","contact_number":1234567890,"address":"K8 Lane 1",
  
- "department":[{"icon":"icon link","name":"cardiology","_id":"615efc8753c29927b024356b"}]
+ "department":[{"icon":"icon link","name":"cardiology","_id":"615efc8753c29927b024356b"}]}
 ]
-              ]
+              
 }
